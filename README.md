@@ -1,4 +1,4 @@
-# Perlin Minecraft Voxel
+# Perlin Voxel Minecraft
 
 Brute force voxel minecraft using perlin noise.
 
