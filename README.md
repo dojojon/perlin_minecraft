@@ -1,4 +1,4 @@
-# Perlin Voxel Minecraft
+# Perlin Voxel Minecraft in Unity
 
 Brute force voxel minecraft using perlin noise.
 
